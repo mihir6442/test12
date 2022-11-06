@@ -1,0 +1,2 @@
+from playsound import playsound
+playsound('//Users//mihir//Music//Music//1.mp3')
